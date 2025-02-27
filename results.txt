@@ -1,0 +1,4 @@
+[PASS] Spatial reference matches the master dataset.
+[ERROR] Missing required fields: name, output
+[PASS] No extra fields found.
+[PASS] Record count matches master dataset.
