@@ -4,7 +4,7 @@ This .pyt script will create a Data Validation Tool in ArcGIS Pro to ensure data
 
 Check Spatial Reference Consistency – Ensure all input layers use the same coordinate system.
 
-Validate Attribute Schema – Ensure required fields exist and match the predefined BP data model.
+Validate Attribute Schema – Ensure required fields exist and match the predefined AB data model.
 
 Enforce Data Version Control – Compare input data with an existing master dataset to track changes.
 
@@ -17,7 +17,7 @@ Input GIS Layers – Feature classes or shapefiles for reservoirs, wells, and pi
 
 Predefined BP Schema – A template dataset (stored in a geodatabase) with the correct field names and data types.
 
-Master Dataset – The authoritative BP GIS database for version control.
+Master Dataset – The authoritative AB GIS database for version control.
 
 Step 3: Run the script
 
